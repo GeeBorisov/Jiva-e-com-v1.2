@@ -54,10 +54,7 @@ const OrderForm = () => {
     способДоставки: Yup.string().required('Выберите способ доставки'),
   });
 
-  const token = '6798478633:AAGPH2qeRrwbIvkpc4Wd4ydNvz4LZHVTN8o';
-  const chatId = '-4141098388';
-  //   896606535
-  // 701094835
+
 
   const handleSubmit = async (values, { resetForm }) => {
     try {
