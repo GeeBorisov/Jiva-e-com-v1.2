@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+// Base
+@import "./base/reset";
+@import "./base/vars";
+@import "./base/base";
+// Block
+@import './block/nav';
+@import './block/button';
+@import './block/header';
+@import './block/content';
+@import './block/cart';
+@import './block/footer';
+@import './block/fullCart';
+@import './block/aboutUs';
+@import './block/contacts';
+@import './block/search';
+@import './block/orderForm';

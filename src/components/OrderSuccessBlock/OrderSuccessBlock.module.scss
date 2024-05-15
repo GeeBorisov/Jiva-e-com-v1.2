@@ -1,0 +1,20 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+    // font-size: 38px;
+    
+    span {
+        font-size: 30px;
+    }
+}
+
+.description {
+    font-size: 30px;
+    padding-top: 20px;
+}
+

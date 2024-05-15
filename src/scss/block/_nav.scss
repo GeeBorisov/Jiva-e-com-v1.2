@@ -1,0 +1,106 @@
+.nav {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: 10px 0;
+    background-color: $navBgColor;
+
+    @media (max-width: 480px) {
+        padding: 2px 0;
+    }
+
+    &__row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    &__right {
+        display: flex;
+        align-items: center;
+        column-gap: 40px;
+        text-transform: uppercase;
+        @media (max-width: 650px) {
+        column-gap: 12px;
+        }
+    }
+    &__logo {
+        display: flex;
+        column-gap: 10px;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        @media (max-width: 480px) {
+            width: 50px;
+            height: 50px;
+        }
+        
+        strong {
+            font-weight: 500;
+            font-size: 25px;
+            @media (max-width: 480px) {
+                display: none;
+            }
+        }
+    }
+
+    &__list {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        column-gap: 40px;
+        text-transform: uppercase;
+        @media (max-width: 720px) {
+            padding-left: 62px;
+        }
+        @media (max-width: 580px) {
+            flex-direction: column;
+            row-gap: 3px;
+            font-size: 13px;
+        }
+        @media (max-width: 480px) {
+            flex-direction: row;
+            column-gap: 15px;
+            padding-left: 0px;
+        }
+        @media (max-width: 420px) {
+            flex-direction: column;
+        }
+        @media (max-width: 340px) {
+            font-size: 12px;
+        }
+
+        &-item {
+            color: $yellow;
+            transition: color 0.1s ease-in;
+            :hover {
+                color: $gray;
+            }
+            :active {
+                color: $gray;
+            }
+            a {
+                img {
+                    @media (max-width: 480px) {
+                        width: 19px;
+                        height: 19px;
+                    }
+                }
+        
+            }
+
+        }
+        &-socials {
+            display: flex;
+            gap: 15px;
+            @media (max-width: 580px) {
+            gap: 10px;
+            }
+            @media (max-width: 480px) {
+                flex-direction: column;
+                gap: 3px;
+                }
+        }
+    }    
+}
+

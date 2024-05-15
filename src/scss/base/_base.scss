@@ -1,0 +1,65 @@
+@import './vars';
+
+body {
+    font-family: $font;
+    color: $gray;
+    background-color: $bgColor;
+    font-size: 14px;
+    font-weight: 400;
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+a {
+    color: $yellow;
+    transition: color 0.1s ease-in;
+}
+
+.container {
+    max-width: 1300px;
+    padding: 0px 15px;
+    margin: 0 auto;
+
+    &--sm {
+        max-width: 840px;
+    }
+    @media (max-width: 400px) {
+        padding: 0px 5px;
+    }
+
+}
+
+
+.none {
+    display: none !important;
+}
+
+.title-2 {
+    font-size: 16px;
+    color: $yellow;
+    font-family: $font;
+    font-weight: 400;
+    text-transform: uppercase;
+
+    // @include mediaTablet {
+    //     font-size: 28px;
+    // }
+}
+.title-1 {
+    font-size: 30px;
+    color: $gray;
+    font-family: $font;
+    font-weight: 600;
+    text-transform: uppercase;
+    @media (max-width: 430px) {
+        font-size: 24px;
+        }
+}
+
+
+// .no-scroll {
+//     overflow-y: hidden;
+// }
+
+

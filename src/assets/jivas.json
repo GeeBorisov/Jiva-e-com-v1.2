@@ -1,0 +1,604 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/4e48fff996d1268a7a9d334e24d08c37/oil-05.jpeg",
+    "title": "Льняное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 315
+    },
+    {
+      "value": 250,
+      "price": 630
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/185a6cc1d937ca362b973a937a5a4d70/oil-06.jpeg",
+    "title": "Масло грецкого ореха",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 468
+    },
+    {
+      "value": 250,
+      "price": 900
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/5a79931bff5206c6bc48ea7be98fb8f8/oil-08.jpg",
+    "title": "Кедровое масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 1008
+    },
+    {
+      "value": 250,
+      "price": 1970
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/0e0edb307a502307ab2a163e8d6b38c4/oil-07.jpeg",
+    "title": "Рыжиковое масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 405
+    },
+    {
+      "value": 250,
+      "price": 783
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/0df8cecf2e90b46adbe403c110db4e0b/oil-01.jpeg",
+    "title": "Горчичное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 377
+    },
+    {
+      "value": 250,
+      "price": 720
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/4425b84dc71ebb239c6a4c10a7a4485d/oil-02.jpeg",
+    "title": "Кокосовое масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 450
+    },
+    {
+      "value": 200,
+      "price": 863
+    },
+    {
+      "value": 400,
+      "price": 1404
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/71d5144ca547b41261cfcf48fbe2302a/oil-03.jpeg",
+    "title": "Конопляное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 530
+    },
+    {
+      "value": 250,
+      "price": 990
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/e3a6dd7eb527c7a1d3a2234d1f0c5ed4/oil-04.jpeg",
+    "title": "Кунжутное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 468
+    },
+    {
+      "value": 250,
+      "price": 873
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/4b91d638264ef15e250f97e37e6f03e9/oil-09.jpeg",
+    "title": "Подсолнечное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 315
+    },
+    {
+      "value": 250,
+      "price": 513
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/72e00ed882f4c69deca8180ddd197839/oil-10.jpeg",
+    "title": "Тыквенное масло",
+    "sizes": [
+      {
+      "value": 100,
+      "price": 630
+    },
+    {
+      "value": 250,
+      "price": 1305
+    }
+  ],
+    "weight": [],
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/57f8ea089362f15e2daf31bc331e1b54/pasts-01.jpg",
+    "title": "Арахисоввя паста",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 305
+        },
+        {
+          "value": 200,
+          "price": 440
+        },
+        {
+          "value": 500,
+          "price": 827
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/cd1c5dfb39fd2626e0f98d69635e2565/pasts-02.jpg",
+    "title": "Арахисоввя паста хрустящая",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 314
+        },
+        {
+          "value": 200,
+          "price": 450
+        },
+        {
+          "value": 500,
+          "price": 836
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/00b0dbf60408333d3fe1d5d1ed816bd7/pasts-03.jpg",
+    "title": "Кешью-кокос урбеч",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 405
+        },
+        {
+          "value": 200,
+          "price": 710
+        },
+        {
+          "value": 500,
+          "price": 1350
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/b31e915ea4abdc037e6215e5d589d8c3/pasts-04.jpg",
+    "title": "Кешью урбеч",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 405
+        },
+        {
+          "value": 200,
+          "price": 710
+        },
+        {
+          "value": 500,
+          "price": 1440
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/4c6657b0ea45af821252f72ef9d1e652/pasts-05.jpg",
+    "title": "Кокосовый урбеч",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 320
+        },
+        {
+          "value": 200,
+          "price": 520
+        },
+        {
+          "value": 500,
+          "price": 1150
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/0c542d2186eef42bba1ee2236a3d3f74/pasts-06.jpg",
+    "title": "Кунжутный урбеч",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 385
+        },
+        {
+          "value": 200,
+          "price": 710
+        },
+        {
+          "value": 500,
+          "price": 1250
+        }
+    ],
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/4a8d199218701a54ee9ab916b8f27971/flour-01.jpeg",
+    "title": "Мука грецкого ореха",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 70
+        },
+        {
+          "value": 500,
+          "price": 350
+        },
+        {
+          "value": 1000,
+          "price": 700
+        }
+    ],
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/0c85cee72bca74e6fafd9416fe167dc1/flour-02.jpeg",
+    "title": "Кокосовая мука",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 150
+        },
+        {
+          "value": 500,
+          "price": 750
+        },
+        {
+          "value": 1000,
+          "price": 1500
+        }
+    ],
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/9d93046df42554990d7babc79e151758/flour-03.jpeg",
+    "title": "Мука подсолнечника",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 20
+        },
+        {
+          "value": 500,
+          "price": 100
+        },
+        {
+          "value": 1000,
+          "price": 200
+        }
+    ],
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/a1507fdf15e9efd8467b89d9099e584e/flour-04.jpeg",
+    "title": "Тыквенная мука",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 55
+        },
+        {
+          "value": 500,
+          "price": 275
+        },
+        {
+          "value": 1000,
+          "price": 550
+        }
+    ],
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/a18ed7f15fcaf87627de0992b0f56e4f/flour-05.png",
+    "title": "Кунжутная мука",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 37
+        },
+        {
+          "value": 500,
+          "price": 185
+        },
+        {
+          "value": 1000,
+          "price": 370
+        }
+    ],
+    "category": 2,
+    "rating": 9
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/ffc04122aae7992d1aafd25d894de2e4/flour-06.png",
+    "title": "Мука кедрового ореха",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 150
+        },
+        {
+          "value": 500,
+          "price": 750
+        },
+        {
+          "value": 1000,
+          "price": 1500
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/ccd62bb61d15c8691b66350517682a2c/oilcake-02.jpg",
+    "title": "Льняной жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 10
+        },
+        {
+          "value": 500,
+          "price": 50
+        },
+        {
+          "value": 1000,
+          "price": 100
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/88f359874410da0a89c3c1170daa3c15/oilcake-03.jpg",
+    "title": "Тыквенный жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 300,
+          "price": 135
+        },
+        {
+          "value": 600,
+          "price": 270
+        },
+        {
+          "value": 1000,
+          "price": 450
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/a0b75902eb3a50bbc48b04e2087f337a/oilcake-04.jpeg",
+    "title": "Подсолнечника жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 15
+        },
+        {
+          "value": 500,
+          "price": 75
+        },
+        {
+          "value": 1000,
+          "price": 150
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/63be19b0b05fcc8c0596d2920da8acf1/oilcake-05.jpeg",
+    "title": "Конопляный жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 25
+        },
+        {
+          "value": 500,
+          "price": 125
+        },
+        {
+          "value": 1000,
+          "price": 250
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/1a683be795d100d1d064b62637a437c9/oilcake-06.jpeg",
+    "title": "Кунжутный жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 27
+        },
+        {
+          "value": 500,
+          "price": 135
+        },
+        {
+          "value": 1000,
+          "price": 270
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/0a42ea5cb0250c11764eb16b1dc6995a/oilcake-07.jpeg",
+    "title": "Жмых кедрового ореха",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 130
+        },
+        {
+          "value": 500,
+          "price": 650
+        },
+        {
+          "value": 1000,
+          "price": 1300
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://sprutio.beget.com/image_cache/rainbow.beget:9443/pavell6c/1a683be795d100d1d064b62637a437c9/oilcake-01.jpeg",
+    "title": "Кокосовый жмых",
+    "sizes": [],
+    "weight": [
+      {
+          "value": 100,
+          "price": 50
+        },
+        {
+          "value": 500,
+          "price": 250
+        },
+        {
+          "value": 1000,
+          "price": 500
+        }
+    ],
+    "category": 3,
+    "rating": 9
+  }
+]

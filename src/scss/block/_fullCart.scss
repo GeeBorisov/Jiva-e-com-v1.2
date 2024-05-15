@@ -1,0 +1,22 @@
+.fullCart__wrapper {
+    margin-top: 50px;
+    display: flex;
+    // flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+
+    img {
+        width: 500px;
+        height: 100%;
+    }
+}
+.fullCart__right {
+    h2 {
+        font-size: 36px;
+        margin-bottom: 30px;
+    }
+    p {
+        font-size: 22px;
+    }
+}
+

@@ -1,0 +1,215 @@
+.order-form {
+
+    &__title-1 {
+        margin-top: 20px;
+        font-size: 24px;
+        color: $yellow;
+    }
+    &__title {
+        font-weight: 600;
+        margin: 35px 0 15px;
+        font-size: 22px;
+        color: $white;
+    }
+    &__information {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 18px;
+        display: flex;
+        gap: 10px;
+
+        span {
+            color: #b42323;
+        }
+    }
+    &__input {
+    /* border: 1px solid #565555; */
+    padding-left: 25px;
+    font-size: 24px;
+    color: #fff;
+    z-index: 1;
+    border-radius: 10px;
+    background-color: #323030;
+    }
+    &__textarea {
+        // width: 500px;
+        border: 1px solid ;
+        padding: 5px;
+        font-size: 20px;
+        color: $white;
+        width: 700px;
+        height: 100px;
+
+        @media (max-width: 790px) {
+        width: 400px;
+            }
+        @media (max-width: 465px) {
+        width: 300px;
+            }
+    }
+    &__error-message {
+        position: absolute;
+        font-size: 20px;
+        padding-left: 5px;
+        padding-top: 33px;
+        color: #b42323;
+        z-index: 2;
+    }
+    &__error-message-phone {
+        position: absolute;
+        font-size: 20px;
+        padding-left: 40px;
+        padding-top: 33px;
+        color: #b42323;
+    }
+
+    &__phone {
+        background: inherit !important;
+        border: inherit !important; 
+        padding-left: 15px !important;
+        font-size: 16px !important;
+        border-bottom: 1px solid !important;  
+        border-radius: inherit !important;
+        line-height: 29px !important;
+        height: inherit !important;
+        color: $white;
+        z-index: 1;
+    }
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+
+        label {
+            margin-bottom: 10px;
+        }
+
+    }
+    &__adress {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 18px;
+        display: flex;
+        gap: 10px;
+
+        span {
+            color: #b42323;
+        }
+
+    }
+    &__delivery {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 18px;
+        display: flex;
+        gap: 10px;
+
+        span {
+            color: #b42323;
+        }
+    }
+    &__radiobutton {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.react-tel-input .flag-dropdown {
+    display: none;
+  }
+
+
+  .real-radio {
+    /* Скрыть реальную радио кнопку */
+    width: 0;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+}
+.custom-radio {
+    position: relative;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: #ffffff;
+    border: 2px solid $yellowBtn;
+    border-radius: 50%;
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+
+.custom-radio::before {
+    content: '';
+    /* Рисуем круг */
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: $navBgColor;
+    border-radius: 50%;
+
+    /* Выравнивание по центру */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: 0.2s ease-in;
+    /* display: none; */
+}
+
+.real-radio:checked + .custom-radio::before {
+    /* display: block; */
+    transform: translate(-50%, -50%) scale(1);
+
+}
+
+.radio__wrapper {
+    display: flex;
+    align-items: center;
+}
+.delivery-error {
+    padding-top: 0px;
+    padding-left: 160px;
+}
+
+.cart-order {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    &__name {
+        font-size: 18px;
+        color: $yellow;
+        margin-top: 10px;
+    }
+    &__order {
+        display: flex;
+        gap: 10px;
+        column-gap: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+
+
+        @media (max-width: 520px) {
+            flex-direction: column;
+            align-items: unset;
+            text-align: unset;
+            gap: 5px;
+
+                }
+    }
+    &__sum {
+        // margin-left: 10px;
+        color: $yellow;;
+    }
+    &__sumName {
+        margin-left: 10px;
+    }
+}
+
+.delivery-label { 
+    @media (max-width: 453px) {
+        margin-top: 8px;
+            }
+}

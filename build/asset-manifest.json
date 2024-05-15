@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cd1b6c0.css",
+    "main.js": "/static/js/main.af283557.js",
+    "static/media/header-bg.jpg": "/static/media/header-bg.4c6245c0d7315b917bb5.jpg",
+    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.f05c8d47e49d721baf06e2779454a85d.svg",
+    "static/media/inst.svg": "/static/media/inst.d96d9ac8d121fe7c6864b088671a70b9.svg",
+    "static/media/telegram.svg": "/static/media/telegram.8a2292c09c1a445d6bf7b640e5021448.svg",
+    "index.html": "/index.html",
+    "static/media/cross.svg": "/static/media/cross.0b91fc7b2788823fe71dea4dbf7099a7.svg",
+    "static/media/icon-down.svg": "/static/media/icon-down.1ed177a13d2799788512eec811eafc83.svg",
+    "static/media/icon-up.svg": "/static/media/icon-up.ba915e66e53d365fbe7a921aebb9fbd9.svg",
+    "main.9cd1b6c0.css.map": "/static/css/main.9cd1b6c0.css.map",
+    "main.af283557.js.map": "/static/js/main.af283557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd1b6c0.css",
+    "static/js/main.af283557.js"
+  ]
+}
